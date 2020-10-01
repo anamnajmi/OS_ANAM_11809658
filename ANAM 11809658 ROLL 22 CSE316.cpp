@@ -29,7 +29,7 @@ int time_quant;
 
 	int p,  i, t;
 
-	printf("NUMBER OF QUERIES ? : "); scanf("%d", &n);
+	printf("ENTER NUMBER OF QUERIES ? : "); scanf("%d", &n);
 
 	if(n==0) { printf("\n NO QUERY\n"); }
 
